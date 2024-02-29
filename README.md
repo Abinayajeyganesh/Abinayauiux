@@ -6,3 +6,5 @@ topics covered today: logo and its types,
 ai illustrator (tools,how to redesign),how to Remove background from logo.
 day 3:
 how to download figma and create an account ,then a glimpse about their tools.
+day 4:
+how to design application pages in figma app.
