@@ -8,3 +8,5 @@ day 3:
 how to download figma and create an account ,then a glimpse about their tools.
 day 4:
 how to design application pages in figma app.
+day 5:
+how to design application pages in figma app.(how to apply colours,transparency adjustment,sharp corner adjustment)
