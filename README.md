@@ -10,3 +10,7 @@ day 4:
 how to design application pages in figma app.
 day 5:
 how to design application pages in figma app.(how to apply colours,transparency adjustment,sharp corner adjustment)
+day 6:
+absent
+day 7:
+colour theory and colour combination.
