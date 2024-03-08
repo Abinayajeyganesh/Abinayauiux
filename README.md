@@ -14,3 +14,5 @@ day 6:
 absent
 day 7:
 colour theory and colour combination.
+day 8:
+how to Design application pages ,etc assignment 45 pages on playstore figma.
