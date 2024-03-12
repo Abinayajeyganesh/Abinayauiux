@@ -16,3 +16,7 @@ day 7:
 colour theory and colour combination.
 day 8:
 how to Design application pages ,etc assignment 45 pages on playstore figma.
+day 9:
+absent
+day 10:
+create your own digital platform application sketch.
